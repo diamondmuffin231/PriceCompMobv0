@@ -12,6 +12,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PriceComp"
         tools:targetApi="31">
+
+        <!-- MainActivity is declared below -->
         <activity
             android:name=".MainActivity"
             android:exported="true"
