@@ -1,3 +1,5 @@
+//lol
+
 pluginManagement {
     repositories {
         google {
