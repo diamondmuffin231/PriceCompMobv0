@@ -1,6 +1,21 @@
 # PriceCompMobv0
 
-9.1.2025 
+9.2.2025 
+Add 3 Activities & 3 Fragments
+
+Activities 
+    GroceryListActivity.kt
+    GroceryPricesActivity.kt
+    GroceryBudgetActivity.kt
+
+Fragments 
+    Grocery List 
+    Grocery Prices 
+    Grocery Budget 
+    
+
+9.1.2025 (incomplete)
+[features] 
 
 • Main Activity 
     - Grocery List (need to buy)
