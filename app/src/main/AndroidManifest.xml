@@ -24,13 +24,12 @@
                     <action android:name="android.intent.action.MAIN" />
                     <category android:name="android.intent.category.LAUNCHER" />
                 </intent-filter>
-        </activity>
-
+            
         <!-- Activities declared below --> 
-        <activity 
-            android:name=".GroceryListActivity" />
-        
-        
-    </application>
+        <activity android:name=".GroceryListActivity" />
+        <activity android:name=".GroceryPricesActivity" />
+        <activity android:name=".GroceryBudgetActivity" />
 
+        </activity>
+        </application>
 </manifest>
