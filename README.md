@@ -1,13 +1,23 @@
 # PriceCompMobv0
+●/○/◼️/◻️/◆/◇/▲/△
 
-9.2.2025 
+9.2.2025 - 9.4.2025 (incomplete)
 Add 3 Activities & 3 Fragments
 
 Activities 
     GroceryListActivity.kt
     GroceryPricesActivity.kt
     GroceryBudgetActivity.kt
+    • Activity Files ✔
+    • Layout "app/src/main/res/layout/activity_main.xml"
+        ○ Add A Layout File in Android Studio 
+    • Add Child Activities to Father Main_Activity
+        ○ Added the 3 activities UI on the Main Activity file 
+        ○ Added Unit/UI testing 
+            ◼️ Add a test classes 
+            ◼️ Run the test
 
+9.2.2025 (incomplete)
 Fragments 
     Grocery List 
     Grocery Prices 
