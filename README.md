@@ -5,10 +5,10 @@
 Add 3 Activities & 3 Fragments
 
 Activities 
-    GroceryListActivity.kt
-    GroceryPricesActivity.kt
-    GroceryBudgetActivity.kt
     • Activity Files ✔
+        ○ GroceryListActivity.kt ✔
+        ○ GroceryPricesActivity.kt ✔
+        ○ GroceryBudgetActivity.kt ✔
     • Layout "app/src/main/res/layout/activity_main.xml"
         ○ Add A Layout File in Android Studio 
     • Add Child Activities to Father Main_Activity
