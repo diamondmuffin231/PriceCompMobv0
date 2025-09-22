@@ -1,12 +1,13 @@
 # PriceCompMobv0
 ●/○/◼️/◻️/◆/◇/▲/△ ✔
 
-9.6.2025
+9.22.2025 
+● Test out/view UI
+● Start working on Database 
 
+9.6.2025
 ● BackEnd 
     ○ Database (Started)(Test out some files/functions)
-        ◼️ Before accessing a formal database (if can't create one) 
-            ◻️ Add lorem ipsum text on apprpriate files.
         ◼️ Creating/Using a database with SQLite/Room 
             ◻️ Create a db/ 
             ◻️ Add Dependencies ✔ (Test) 
@@ -41,8 +42,20 @@
 [features ideas] 
 
 ● General
-    ○ Compare Prices 
-    ○ Budget 
+    ○ Policy and Aims 
+        ◼️ Make it as simple as possible (even with lots of implementation and information)
+        ◼️ Mobile and watch app 
+
+    ○ Included Items 
+        ◼️ Grocery List (current/future)
+            ◻️ Have a checklist option next to Groceries (due to slight inconsistency)
+            ◻️ 
+        ◼️ Grocery Prices (local) 
+            ◻️ Include deals for stuff one grocery list
+                ◆ Store ads 
+        ◼️ Budget 
+            ◻️ Determine how often one get's specific groceries 
+    
 
 ● Main View 
     ○ Grocery List (need to buy) ~
