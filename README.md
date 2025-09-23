@@ -30,6 +30,8 @@
                 ◆ Added Unit/UI testing
                     ◇ Add a test classes 
                     ◇ Run the test
+                    
+OR
 
     ○ Add 3 Fragaments (not yet started) 
          ◼️ Fragments (not yet started)
@@ -44,7 +46,9 @@
 ● General
     ○ Policy and Aims 
         ◼️ Make it as simple as possible (even with lots of implementation and information)
+            ◻️ Big Shapes, and soft colors 
         ◼️ Mobile and watch app 
+        ◼️ Test it and allow user feedback
 
     ○ Included Items 
         ◼️ Grocery List (current/future)
