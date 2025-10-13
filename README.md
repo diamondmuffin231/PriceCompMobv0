@@ -31,14 +31,19 @@
                     ◇ Add a test classes 
                     ◇ Run the test
                     
-OR
+    ~ OR
 
     ○ Add 3 Fragaments (not yet started) 
          ◼️ Fragments (not yet started)
              ◻️ Grocery List 
              ◻️ Grocery Prices 
              ◻️ Grocery Budget 
-    
+
+● API
+    ○ Debit-card transactions on a user’s bank account
+        ◼️ Plaid, Yodlee, TrueLayer, SaltEdge, MX
+            ◻️ Link bank account once (OAuth / credentials)
+
 -------------------------------------
 
 [features ideas] 
