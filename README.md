@@ -2,11 +2,11 @@
 ●/○/◼️/◻️/◆/◇/▲/△ ✔
 
 9.22.2025 
-● Test out/view UI
-● Start working on Database 
+● Test out/view UI ❌
+● Start working on Database ❌
 
 9.6.2025
-● BackEnd 
+● BackEnd 🟨
     ○ Database (Started)(Test out some files/functions)
         ◼️ Creating/Using a database with SQLite/Room 
             ◻️ Create a db/ 
@@ -16,7 +16,7 @@
             ◻️ Database [AppDatabase.kt] 
             ◻️ Using the Database [MainActivity.kt] 
         
-● UI 
+● UI 🟨
     ○ Add 3 Activities (started)
         ◼️ Activities (started) 
             ◻️ Activity Files ✔
@@ -30,16 +30,18 @@
                 ◆ Added Unit/UI testing
                     ◇ Add a test classes 
                     ◇ Run the test
+
+                    
                     
     ~ OR
 
-    ○ Add 3 Fragaments (not yet started) 
-         ◼️ Fragments (not yet started)
+    ○ Add 3 Fragaments ❌
+         ◼️ Fragments ❌
              ◻️ Grocery List 
              ◻️ Grocery Prices 
              ◻️ Grocery Budget 
 
-● API
+● API ❌
     ○ Debit-card transactions on a user’s bank account
         ◼️ Plaid, Yodlee, TrueLayer, SaltEdge, MX
             ◻️ Link bank account once (OAuth / credentials)
